@@ -1,2 +1,9 @@
 .gradle/
 .idea/
+build/
+src/main/resources/twitter4j.properties
+MEMO.md
+bin/
+.settings/org.eclipse.buildship.core.prefs
+.project
+.classpath
